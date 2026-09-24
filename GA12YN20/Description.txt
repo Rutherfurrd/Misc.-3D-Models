@@ -1,0 +1,4 @@
+GA12YN20 Geared Motor
+All dimensions are taken from datasheet + caliper measurements. 
+https://www.aliexpress.us/item/2255800106452002.html?gatewayAdapt=glo2usa4itemAdapt#nav-specification
+These cheap motors can be purchased for ~$2.50 a piece and seem to be great for budget projects with low rpm and high torque requirements. 
